@@ -5,7 +5,7 @@
     android:id="@+id/lezioni"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".ui.lezioni.LezioniFragment">
+    tools:context=".lezioni.LezioniFragment">
 
     <TextView
         android:id="@+id/message"
