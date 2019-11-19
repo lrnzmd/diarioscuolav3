@@ -1,4 +1,4 @@
-package com.example.diarioscuola.notizie.ui.notizie
+package com.example.diarioscuola.notizie
 
 import androidx.lifecycle.ViewModel
 

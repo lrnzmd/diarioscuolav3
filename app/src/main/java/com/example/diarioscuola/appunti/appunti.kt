@@ -2,7 +2,7 @@ package com.example.diarioscuola.appunti
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.example.diarioscuola.appunti.ui.appunti.AppuntiFragment
+import com.example.diarioscuola.R
 
 class appunti : AppCompatActivity() {
 

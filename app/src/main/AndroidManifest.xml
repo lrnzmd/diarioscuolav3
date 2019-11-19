@@ -9,10 +9,12 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".impostazioni.impostazioni"></activity>
+        <activity android:name=".notizie.notizie"></activity>
+        <activity android:name=".appunti.appunti" />
+        <activity android:name=".impostazioni.impostazioni" />
         <activity android:name=".calendario.calendario" />
         <activity android:name=".compiti.compiti" />
-        <activity android:name=".lezioni.lezioni" />
+        <activity android:name=".lezioni.Lezioni" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

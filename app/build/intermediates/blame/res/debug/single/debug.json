@@ -296,6 +296,10 @@
         "source": "C:\\Users\\lrnzm\\.gradle\\caches\\transforms-2\\files-2.1\\5b454e4f1a30a31f78d2352c725b41cb\\core-1.1.0\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
     },
     {
+        "merged": "C:\\Users\\lrnzm\\AndroidStudioProjects\\diarioscuola3\\app\\build\\intermediates\\res\\merged\\debug\\layout_notizie_activity.xml.flat",
+        "source": "C:\\Users\\lrnzm\\AndroidStudioProjects\\diarioscuola3\\app\\src\\main\\res\\layout\\notizie_activity.xml"
+    },
+    {
         "merged": "C:\\Users\\lrnzm\\AndroidStudioProjects\\diarioscuola3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
         "source": "C:\\Users\\lrnzm\\.gradle\\caches\\transforms-2\\files-2.1\\0c59e42970579c9c36ddd604ba39521e\\appcompat-1.1.0\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
     },
@@ -418,6 +422,10 @@
     {
         "merged": "C:\\Users\\lrnzm\\AndroidStudioProjects\\diarioscuola3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_longpressed_holo.9.png.flat",
         "source": "C:\\Users\\lrnzm\\.gradle\\caches\\transforms-2\\files-2.1\\0c59e42970579c9c36ddd604ba39521e\\appcompat-1.1.0\\res\\drawable-mdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\lrnzm\\AndroidStudioProjects\\diarioscuola3\\app\\build\\intermediates\\res\\merged\\debug\\layout_notizie_fragment.xml.flat",
+        "source": "C:\\Users\\lrnzm\\AndroidStudioProjects\\diarioscuola3\\app\\src\\main\\res\\layout\\notizie_fragment.xml"
     },
     {
         "merged": "C:\\Users\\lrnzm\\AndroidStudioProjects\\diarioscuola3\\app\\build\\intermediates\\res\\merged\\debug\\animator_mtrl_chip_state_list_anim.xml.flat",
@@ -788,10 +796,6 @@
         "source": "C:\\Users\\lrnzm\\.gradle\\caches\\transforms-2\\files-2.1\\0c59e42970579c9c36ddd604ba39521e\\appcompat-1.1.0\\res\\interpolator\\btn_checkbox_unchecked_mtrl_animation_interpolator_1.xml"
     },
     {
-        "merged": "C:\\Users\\lrnzm\\AndroidStudioProjects\\diarioscuola3\\app\\build\\intermediates\\res\\merged\\debug\\layout_main_activity_fragment.xml.flat",
-        "source": "C:\\Users\\lrnzm\\AndroidStudioProjects\\diarioscuola3\\app\\src\\main\\res\\layout\\main_activity_fragment.xml"
-    },
-    {
         "merged": "C:\\Users\\lrnzm\\AndroidStudioProjects\\diarioscuola3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_abc_dialog_material_background.xml.flat",
         "source": "C:\\Users\\lrnzm\\.gradle\\caches\\transforms-2\\files-2.1\\0c59e42970579c9c36ddd604ba39521e\\appcompat-1.1.0\\res\\drawable-v21\\abc_dialog_material_background.xml"
     },
@@ -1156,6 +1160,10 @@
         "source": "C:\\Users\\lrnzm\\.gradle\\caches\\transforms-2\\files-2.1\\0c59e42970579c9c36ddd604ba39521e\\appcompat-1.1.0\\res\\anim\\abc_fade_in.xml"
     },
     {
+        "merged": "C:\\Users\\lrnzm\\AndroidStudioProjects\\diarioscuola3\\app\\build\\intermediates\\res\\merged\\debug\\layout_main_avtivity_fragment.xml.flat",
+        "source": "C:\\Users\\lrnzm\\AndroidStudioProjects\\diarioscuola3\\app\\src\\main\\res\\layout\\main_avtivity_fragment.xml"
+    },
+    {
         "merged": "C:\\Users\\lrnzm\\AndroidStudioProjects\\diarioscuola3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_black_36dp.png.flat",
         "source": "C:\\Users\\lrnzm\\.gradle\\caches\\transforms-2\\files-2.1\\0c59e42970579c9c36ddd604ba39521e\\appcompat-1.1.0\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_36dp.png"
     },
@@ -1500,6 +1508,10 @@
         "source": "C:\\Users\\lrnzm\\.gradle\\caches\\transforms-2\\files-2.1\\0c59e42970579c9c36ddd604ba39521e\\appcompat-1.1.0\\res\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
     },
     {
+        "merged": "C:\\Users\\lrnzm\\AndroidStudioProjects\\diarioscuola3\\app\\build\\intermediates\\res\\merged\\debug\\layout_appunti_activity.xml.flat",
+        "source": "C:\\Users\\lrnzm\\AndroidStudioProjects\\diarioscuola3\\app\\src\\main\\res\\layout\\appunti_activity.xml"
+    },
+    {
         "merged": "C:\\Users\\lrnzm\\AndroidStudioProjects\\diarioscuola3\\app\\build\\intermediates\\res\\merged\\debug\\color_mtrl_btn_text_btn_ripple_color.xml.flat",
         "source": "C:\\Users\\lrnzm\\.gradle\\caches\\transforms-2\\files-2.1\\5e956fe67a9d2e72da17849c1c482a94\\material-1.0.0\\res\\color\\mtrl_btn_text_btn_ripple_color.xml"
     },
@@ -1518,6 +1530,10 @@
     {
         "merged": "C:\\Users\\lrnzm\\AndroidStudioProjects\\diarioscuola3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
         "source": "C:\\Users\\lrnzm\\.gradle\\caches\\transforms-2\\files-2.1\\0c59e42970579c9c36ddd604ba39521e\\appcompat-1.1.0\\res\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\lrnzm\\AndroidStudioProjects\\diarioscuola3\\app\\build\\intermediates\\res\\merged\\debug\\layout_appunti_fragment.xml.flat",
+        "source": "C:\\Users\\lrnzm\\AndroidStudioProjects\\diarioscuola3\\app\\src\\main\\res\\layout\\appunti_fragment.xml"
     },
     {
         "merged": "C:\\Users\\lrnzm\\AndroidStudioProjects\\diarioscuola3\\app\\build\\intermediates\\res\\merged\\debug\\interpolator_btn_radio_to_off_mtrl_animation_interpolator_0.xml.flat",

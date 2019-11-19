@@ -18,10 +18,12 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
+        <activity android:name="com.example.diarioscuola.notizie.notizie" />
+        <activity android:name="com.example.diarioscuola.appunti.appunti" />
         <activity android:name="com.example.diarioscuola.impostazioni.impostazioni" />
         <activity android:name="com.example.diarioscuola.calendario.calendario" />
         <activity android:name="com.example.diarioscuola.compiti.compiti" />
-        <activity android:name="com.example.diarioscuola.lezioni.lezioni" />
+        <activity android:name="com.example.diarioscuola.lezioni.Lezioni" />
         <activity android:name="com.example.diarioscuola.MainActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

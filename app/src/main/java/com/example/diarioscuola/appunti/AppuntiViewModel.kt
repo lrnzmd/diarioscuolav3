@@ -1,4 +1,4 @@
-package com.example.diarioscuola.appunti.ui.appunti
+package com.example.diarioscuola.appunti
 
 import androidx.lifecycle.ViewModel
 

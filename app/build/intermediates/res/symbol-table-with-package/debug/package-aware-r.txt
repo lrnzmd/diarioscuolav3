@@ -1152,12 +1152,20 @@ id add
 id alertTitle
 id all
 id always
+id appunti
+id appuntiFragment
 id async
 id auto
 id barrier
 id beginning
 id blocking
 id bottom
+id button1
+id button2
+id button3
+id button4
+id button5
+id button6
 id buttonPanel
 id calendario
 id calendarioFragment
@@ -1251,6 +1259,8 @@ id normal
 id notification_background
 id notification_main_column
 id notification_main_column_container
+id notizie
+id notizieFragment
 id off
 id on
 id outline
@@ -1328,6 +1338,7 @@ id text_input_password_toggle
 id textinput_counter
 id textinput_error
 id textinput_helper_text
+id textview
 id time
 id title
 id titleDividerNoCustom
@@ -1406,6 +1417,8 @@ layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_main
+layout appunti_activity
+layout appunti_fragment
 layout calendario_activity
 layout calendario_fragment
 layout compiti_activity
@@ -1429,7 +1442,7 @@ layout impostazioni_activity
 layout impostazioni_fragment
 layout lezioni_activity
 layout lezioni_fragment
-layout main_activity_fragment
+layout main_avtivity_fragment
 layout mtrl_layout_snackbar
 layout mtrl_layout_snackbar_include
 layout notification_action
@@ -1447,6 +1460,8 @@ layout notification_template_media
 layout notification_template_media_custom
 layout notification_template_part_chronometer
 layout notification_template_part_time
+layout notizie_activity
+layout notizie_fragment
 layout select_dialog_item_material
 layout select_dialog_multichoice_material
 layout select_dialog_singlechoice_material

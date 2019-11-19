@@ -1,4 +1,4 @@
-package com.example.diarioscuola.notizie.ui.notizie
+package com.example.diarioscuola.notizie
 
 import androidx.lifecycle.ViewModelProviders
 import android.os.Bundle
@@ -6,7 +6,8 @@ import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import com.example.diarioscuola.notizie.R
+import com.example.diarioscuola.R
+
 
 class NotizieFragment : Fragment() {
 

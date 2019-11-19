@@ -2,7 +2,7 @@ package com.example.diarioscuola.notizie
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.example.diarioscuola.notizie.ui.notizie.NotizieFragment
+import com.example.diarioscuola.R
 
 class notizie : AppCompatActivity() {
 

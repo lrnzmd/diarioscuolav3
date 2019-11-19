@@ -1,4 +1,4 @@
-package com.example.diarioscuola.appunti.ui.appunti
+package com.example.diarioscuola.appunti
 
 import androidx.lifecycle.ViewModelProviders
 import android.os.Bundle
@@ -6,7 +6,7 @@ import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import com.example.diarioscuola.appunti.R
+import com.example.diarioscuola.R
 
 class AppuntiFragment : Fragment() {
 
