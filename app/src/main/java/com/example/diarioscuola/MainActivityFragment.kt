@@ -8,10 +8,10 @@ import android.view.View
 import android.view.ViewGroup
 
 
-class MainActivityFragment : Fragment() {
+class MainAvtivityFragment : Fragment() {
 
     companion object {
-        fun newInstance() = MainActivityFragment()
+        fun newInstance() = MainAvtivityFragment()
     }
 
     private lateinit var viewModel: MainActivityViewModel
@@ -20,13 +20,8 @@ class MainActivityFragment : Fragment() {
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View? {
-        return inflater.inflate(R.layout.main_activity_fragment, container, false)
+        return inflater.inflate(R.layout.main_avtivity_fragment, container, false)
     }
 
-    override fun onActivityCreated(savedInstanceState: Bundle?) {
-        super.onActivityCreated(savedInstanceState)
-        viewModel = ViewModelProviders.of(this).get(MainActivityViewModel::class.java)
-        // TODO: Use the ViewModel
-    }
 
 }
