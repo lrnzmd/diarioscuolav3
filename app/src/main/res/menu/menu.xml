@@ -6,6 +6,11 @@
         android:title="home"/>
 
     <item
+        android:id="@+id/appuntiFragment"
+        android:title="appunti"/>
+
+
+    <item
         android:id="@+id/lezioniFragment"
         android:title="lezioni"/>
 
@@ -16,5 +21,13 @@
     <item
         android:id="@+id/calendarioFragment"
         android:title="calendario"/>
+
+    <item
+        android:id="@+id/notizieFragment"
+        android:title="notizie"/>
+
+    <item
+        android:id="@id/impostazioniFragment"
+        android:title="impostazioni"/>
 
 </menu>

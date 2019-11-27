@@ -5,7 +5,7 @@
     android:id="@+id/compiti"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".ui.compiti.CompitiFragment">
+    tools:context=".compiti.CompitiFragment">
 
     <TextView
         android:id="@+id/message"
