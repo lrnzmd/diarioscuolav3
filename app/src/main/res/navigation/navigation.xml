@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation"
+    app:startDestination="@id/mainActivityFragment">
+
+    <fragment
+        android:id="@+id/mainActivityFragment"
+        android:name="com.example.diarioscuola.MainActivityFragment"
+        android:label="main_activity_fragment"
+        tools:layout="@layout/main_activity_fragment" />
+    <fragment
+        android:id="@+id/calendarioFragment"
+        android:name="com.example.diarioscuola.calendario.CalendarioFragment"
+        android:label="CalendarioFragment" />
+    <fragment
+        android:id="@+id/compitiFragment"
+        android:name="com.example.diarioscuola.compiti.CompitiFragment"
+        android:label="CompitiFragment" />
+    <fragment
+        android:id="@+id/impostazioniFragment"
+        android:name="com.example.diarioscuola.impostazioni.ImpostazioniFragment"
+        android:label="ImpostazioniFragment" />
+    <fragment
+        android:id="@+id/lezioniFragment"
+        android:name="com.example.diarioscuola.lezioni.LezioniFragment"
+        android:label="LezioniFragment" />
+    <fragment
+        android:id="@+id/appuntiFragment"
+        android:name="com.example.diarioscuola.appunti.AppuntiFragment"
+        android:label="AppuntiFragment" />
+    <fragment
+        android:id="@+id/notizieFragment"
+        android:name="com.example.diarioscuola.notizie.NotizieFragment"
+        android:label="NotizieFragment" />
+</navigation>
